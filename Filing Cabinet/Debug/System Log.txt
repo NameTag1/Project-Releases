@@ -1,0 +1,6 @@
+2025-11-23
+11:25:39 - Application Initialized
+11:25:40 - Pushed Menu State
+11:25:42 - States Cleared
+11:25:42 - JsonHandler Closed
+11:25:42 - Window Closed
